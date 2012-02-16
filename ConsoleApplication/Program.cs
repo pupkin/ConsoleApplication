@@ -9,6 +9,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             int renat = 0;
+            int ruzil = 0;
         }
     }
 }
