@@ -8,6 +8,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            int ruzil = 0;
         }
     }
 }
